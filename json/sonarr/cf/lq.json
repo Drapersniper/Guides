@@ -1,0 +1,143 @@
+{
+  "trash_id": "9c11cd3f07101cdba90a2d81cf0e56b4",
+  "trash_score": "-10000",
+  "name": "LQ",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "BRiNK",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(BRiNK)\\b"
+      }
+    },
+    {
+      "name": "CHX",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(CHX)\\b"
+      }
+    },
+    {
+      "name": "EVO",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(EVO)\\b"
+      }
+    },
+    {
+      "name": "FGT",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(FGT)\\b"
+      }
+    },
+    {
+      "name": "GHOSTS",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(GHOSTS)\\b"
+      }
+    },
+    {
+      "name": "JFF",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(JFF)\\b"
+      }
+    },
+    {
+      "name": "MeGusta",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(MeGusta)\\b"
+      }
+    },
+    {
+      "name": "NERO",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(NERO)\\b"
+      }
+    },
+    {
+      "name": "nhanc3",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(nhanc3)\\b"
+      }
+    },
+    {
+      "name": "Pahe",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "Pahe\\.(ph|in)\\b"
+      }
+    },
+    {
+      "name": "PSA",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(PSA)\\b"
+      }
+    },
+    {
+      "name": "TBS",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(TBS)\\b"
+      }
+    },
+    {
+      "name": "VIDEOHOLE",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(VIDEOHOLE)\\b"
+      }
+    },
+    {
+      "name": "worldmkv",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(worldmkv)\\b"
+      }
+    },
+    {
+      "name": "XLF",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(XLF)\\b"
+      }
+    }
+  ]
+}
